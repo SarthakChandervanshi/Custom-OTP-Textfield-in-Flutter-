@@ -25,8 +25,7 @@ You must provide the allowable width of textfield and the text editing controlle
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+Below is the implementation of custom otp textfield
 
 ```dart
 const like = 'sample';
