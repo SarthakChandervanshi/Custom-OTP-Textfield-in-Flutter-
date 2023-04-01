@@ -81,6 +81,10 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 ```
 
+## Demo video
+https://user-images.githubusercontent.com/54674615/229271519-97a2de54-a9fd-4ade-8d2c-956a2f3d9713.gif
+
+
 ## Additional information
 
 There is a minor fault in the textfield which is , it does not detect empty back spaces. It will be corrected in the upcoming versions.
