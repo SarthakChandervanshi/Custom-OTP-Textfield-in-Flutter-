@@ -82,7 +82,7 @@ class _MyHomePageState extends State<MyHomePage> {
 ```
 
 ## Demo video
-![Custom OTP Textfield example](https://user-images.githubusercontent.com/54674615/229271690-bb1a95fa-4168-477c-9fd9-1fd9cff70fdc.gif = 100X250)
+![Custom OTP Textfield example](https://user-images.githubusercontent.com/54674615/229271690-bb1a95fa-4168-477c-9fd9-1fd9cff70fdc.gif)
 
 ## Additional information
 
